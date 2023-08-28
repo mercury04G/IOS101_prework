@@ -2,7 +2,7 @@
 
 Submitted by: **Yingying Gong**
 
-**Color Changerp** is an app that enables user to change the color of the background in an IOS application
+**Color Changer** is an app that enables user to change the color of the background in an IOS application
 
 Time spent: **2** hours spent in total
 
@@ -27,6 +27,27 @@ GIF created with ...
 [peek](https://github.com/phw/peek) for Linux. -->
 
 ## App Brainstorming (Step 4)
+### Favorite Apps
+- Outlook
+ - Automatic response
+ - Calendar available to share with coworkers
+- Reddit
+ - Joining new groups/communities and knowing others' opinions
+ - High-quality recommendations
+- Safari
+ - Syncing data by Apple account
+ - Protecting users' privacy
+
+### App Idea
+I would like to create an accounting app that fetches data from all cards of users. 
+The idea comes from my personal experience of using several credit and debit cards from different banks.
+It is inconvenient to check them and add them to one sheet manually, 
+so I want to design an app to do the task automatically.
+#### Features
+- Autofill your transaction data from CSV and Xls files downloaded from multiple bank accounts.
+- Enable users to fill up data manually
+- Enable customized categories of transaction
+- Set spending and saving goals
 
 ## Notes
 
