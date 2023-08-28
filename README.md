@@ -28,13 +28,13 @@ GIF created with ...
 
 ## App Brainstorming (Step 4)
 ### Favorite Apps
-- Outlook
+1. Outlook
  - Automatic response
  - Calendar available to share with coworkers
-- Reddit
+2. Reddit
  - Joining new groups/communities and knowing others' opinions
  - High-quality recommendations
-- Safari
+3. Safari
  - Syncing data by Apple account
  - Protecting users' privacy
 
